@@ -1,5 +1,5 @@
-//Garv Nandwana
-//23070123167
+// NAME - DEVANSH CHACHRA
+// PRN - 22070123039
 //entcb2
 #include <iostream>
 using namespace std;
